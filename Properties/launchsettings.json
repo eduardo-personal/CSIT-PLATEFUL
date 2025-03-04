@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Plateful (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Plateful (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

@@ -1,0 +1,1 @@
+C:\Users\eduar\source\repos\Plateful\Plateful.csproj;x64

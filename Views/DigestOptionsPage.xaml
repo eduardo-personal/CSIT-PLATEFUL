@@ -1,0 +1,116 @@
+﻿<Page
+    x:Class="Plateful.Views.DigestOptionsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression.blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Background="{ThemeResource SystemAltHighColor}"
+    mc:Ignorable="d">
+
+    <Grid x:Name="ContentArea" Margin="{StaticResource NavigationViewPageContentMargin}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Spacing="15">
+            <TextBlock Style="{ThemeResource TitleTextBlockStyle}" Text="Daily Digest" />
+            <InfoBar
+                x:Name="InfoBar"
+                Title="Daily Digest"
+                Margin="0,0,0,20"
+                IsOpen="True"
+                Message="Here are your daily nutrition goals. Make sure to track your intake."
+                Severity="Informational" />
+
+            <!--  Water Intake  -->
+            <StackPanel
+                VerticalAlignment="Center"
+                Orientation="Horizontal"
+                Spacing="8">
+                <TextBlock FontSize="16" Text="💧 Water Intake (L)" />
+                <TextBlock
+                    FontSize="14"
+                    Foreground="Gray"
+                    Text="(Recommended: 3L)" />
+            </StackPanel>
+            <TextBox PlaceholderText="Enter water intake" Text="2.5" />
+
+            <!--  Protein Intake  -->
+            <StackPanel
+                VerticalAlignment="Center"
+                Orientation="Horizontal"
+                Spacing="8">
+                <TextBlock FontSize="16" Text="🍗 Protein Intake (g)" />
+                <TextBlock
+                    FontSize="14"
+                    Foreground="Gray"
+                    Text="(Recommended: 150g)" />
+            </StackPanel>
+            <TextBox PlaceholderText="Enter protein intake" Text="120" />
+
+            <!--  Carbs Intake  -->
+            <StackPanel
+                VerticalAlignment="Center"
+                Orientation="Horizontal"
+                Spacing="8">
+                <TextBlock FontSize="16" Text="🍞 Carbs Intake (g)" />
+                <TextBlock
+                    FontSize="14"
+                    Foreground="Gray"
+                    Text="(Recommended: 275g)" />
+            </StackPanel>
+            <TextBox PlaceholderText="Enter carbs intake" Text="250" />
+        </StackPanel>
+
+
+        <Button
+            Grid.Column="1"
+            Margin="0,0,0,20"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            Click="Save_Click"
+            Style="{ThemeResource AccentButtonStyle}">
+            <Button.Content>
+                <TextBlock Text="Save" />
+            </Button.Content>
+        </Button>
+        <!--  Right Column: Profile Info  -->
+        <StackPanel
+            Grid.Column="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Spacing="10">
+            <!--  Profile Picture  -->
+            <Border
+                Width="100"
+                Height="100"
+                BorderBrush="Gray"
+                BorderThickness="2"
+                CornerRadius="50">
+                <Image Source="/Assets/wave.jpg" Stretch="UniformToFill" />
+            </Border>
+
+            <!--  Birthday  -->
+            <TextBlock
+                FontSize="16"
+                FontWeight="SemiBold"
+                Text="🎂 Birthday"
+                TextAlignment="Center" />
+            <TextBlock
+                FontSize="14"
+                Foreground="Gray"
+                Text="January 1, 1995"
+                TextAlignment="Center" />
+
+            <!--  Age  -->
+            <TextBlock
+                FontSize="16"
+                FontWeight="SemiBold"
+                Text="Age: 29"
+                TextAlignment="Center" />
+
+
+        </StackPanel>
+    </Grid>
+</Page>

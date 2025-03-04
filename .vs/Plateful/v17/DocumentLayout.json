@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\source\\repos\\Plateful\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\newmealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\newmealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\shellpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\shellpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\digestoptionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\digestoptionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\digestoptionspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\digestoptionspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eduar\\AppData\\Local\\Temp\\TemplateStudio\\e93fb1c4-d68b-3c29-6fc8-02b9b23e1ad9\\Plateful_20250303_122029\\GenerationSummary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\newmealpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\newmealpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\viewmodels\\newmealviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:viewmodels\\newmealviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\contentdialogs\\signupdialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\contentdialogs\\signupdialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\contentdialogs\\signupdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\contentdialogs\\signupdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eduar\\source\\repos\\Plateful\\obj\\x86\\Debug\\net7.0-windows10.0.19041.0\\win10-x86\\Views\\ContentDialogs\\SignUpDialog.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\x86\\Debug\\net7.0-windows10.0.19041.0\\win10-x86\\Views\\ContentDialogs\\SignUpDialog.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\views\\mealdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:views\\mealdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|c:\\users\\eduar\\source\\repos\\plateful\\viewmodels\\digestoptionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93FB1C4-D68B-3C29-6FC8-02B9B23E1AD9}|Plateful.csproj|solutionrelative:viewmodels\\digestoptionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 938,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\HomePage.xaml",
+              "RelativeToolTip": "Views\\HomePage.xaml",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAmwGgBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T17:39:55.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:39:51.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShellPage.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\ShellPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ShellPage.xaml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\ShellPage.xaml",
+              "RelativeToolTip": "Views\\ShellPage.xaml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T03:13:46.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DigestOptionsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\DigestOptionsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\DigestOptionsPage.xaml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\DigestOptionsPage.xaml",
+              "RelativeToolTip": "Views\\DigestOptionsPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T02:59:26.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewMealPage.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\NewMealPage.xaml",
+              "RelativeDocumentMoniker": "Views\\NewMealPage.xaml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\NewMealPage.xaml",
+              "RelativeToolTip": "Views\\NewMealPage.xaml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswG4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T17:20:53.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:00:34.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewMealViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\ViewModels\\NewMealViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\NewMealViewModel.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\ViewModels\\NewMealViewModel.cs",
+              "RelativeToolTip": "ViewModels\\NewMealViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:20:40.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DigestOptionsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\DigestOptionsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\DigestOptionsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\DigestOptionsPage.xaml.cs",
+              "RelativeToolTip": "Views\\DigestOptionsPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:10:17.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DigestOptionsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\ViewModels\\DigestOptionsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DigestOptionsViewModel.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\ViewModels\\DigestOptionsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DigestOptionsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:51:03.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenerationSummary.md",
+              "DocumentMoniker": "C:\\Users\\eduar\\AppData\\Local\\Temp\\TemplateStudio\\e93fb1c4-d68b-3c29-6fc8-02b9b23e1ad9\\Plateful_20250303_122029\\GenerationSummary.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\TemplateStudio\\e93fb1c4-d68b-3c29-6fc8-02b9b23e1ad9\\Plateful_20250303_122029\\GenerationSummary.md",
+              "ToolTip": "C:\\Users\\eduar\\AppData\\Local\\Temp\\TemplateStudio\\e93fb1c4-d68b-3c29-6fc8-02b9b23e1ad9\\Plateful_20250303_122029\\GenerationSummary.md",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\TemplateStudio\\e93fb1c4-d68b-3c29-6fc8-02b9b23e1ad9\\Plateful_20250303_122029\\GenerationSummary.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-03T17:20:41.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewMealPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\NewMealPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\NewMealPage.xaml.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\NewMealPage.xaml.cs",
+              "RelativeToolTip": "Views\\NewMealPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:21:46.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MealDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\MealDetailsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MealDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\MealDetailsPage.xaml",
+              "RelativeToolTip": "Views\\MealDetailsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T03:03:37.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwFAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:16:42.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUpDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\ContentDialogs\\SignUpDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ContentDialogs\\SignUpDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\ContentDialogs\\SignUpDialog.xaml.cs",
+              "RelativeToolTip": "Views\\ContentDialogs\\SignUpDialog.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:57:36.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "Models\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Models\\AccountModel.cs",
+              "RelativeToolTip": "Models\\AccountModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:03:22.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUpDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\ContentDialogs\\SignUpDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\ContentDialogs\\SignUpDialog.xaml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\ContentDialogs\\SignUpDialog.xaml",
+              "RelativeToolTip": "Views\\ContentDialogs\\SignUpDialog.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T02:57:00.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "Views\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T03:31:50.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUpDialog.g.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\obj\\x86\\Debug\\net7.0-windows10.0.19041.0\\win10-x86\\Views\\ContentDialogs\\SignUpDialog.g.cs",
+              "RelativeDocumentMoniker": "obj\\x86\\Debug\\net7.0-windows10.0.19041.0\\win10-x86\\Views\\ContentDialogs\\SignUpDialog.g.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\obj\\x86\\Debug\\net7.0-windows10.0.19041.0\\win10-x86\\Views\\ContentDialogs\\SignUpDialog.g.cs",
+              "RelativeToolTip": "obj\\x86\\Debug\\net7.0-windows10.0.19041.0\\win10-x86\\Views\\ContentDialogs\\SignUpDialog.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:12:49.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\Plateful\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\Plateful\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-20T17:32:31.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
